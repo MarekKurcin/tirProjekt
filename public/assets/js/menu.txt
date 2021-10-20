@@ -1,0 +1,7 @@
+index::Domov
+sluzby::Služby
+foto::Fotogaréria
+onas::O nás
+blog::Blog
+kontakt::Kontakt
+spravy::Správy
