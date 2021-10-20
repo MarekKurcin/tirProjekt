@@ -14,8 +14,10 @@ session_start();
 	{
 	    header('Location: ./prihlasenie.php');
 	}
+//addhoj
 
 ?>
+
 
 
 
